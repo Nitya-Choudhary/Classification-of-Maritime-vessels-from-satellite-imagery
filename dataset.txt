@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/coderkr/ships-in-aerial-images
+https://www.kaggle.com/datasets/siddharthkumarsah/ships-in-aerial-images
